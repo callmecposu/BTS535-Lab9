@@ -6,7 +6,9 @@
 > - Jiseok Shim
 > - Anurag Das
 > - Japit Singh
-![alt text](http:BTS535-Lab9/Stakeholder_Analysis_Matrix.webp)
+[BTS535 Lab 9 Stakeholder Analysis Matrix](BTS535_Lab_9_Stakeholder_Analysis_Matrix.xlsx)
+
+![alt text](Stakeholder_Analysis_Matrix.webp)
 
 ### Communications Plan
 
